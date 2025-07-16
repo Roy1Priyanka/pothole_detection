@@ -6,27 +6,39 @@ This project automatically detects potholes in road images using classical image
 
 To identify potholes in static images using OpenCV, evaluate detection accuracy, and generate annotated output images and CSV reports for analysis.
 
-🌐 Input Example
+🌐 Input Examples
 
-Here is a sample input image used for pothole detection:
+Below are all five input images used for pothole detection:
 
-🖼️ Input Image: road2.jpg
+🖼️ road1.jpg
 
+🖼️ road2.jpg
 
+🖼️ road3.png
 
-🌀 Output Example
+🖼️ road4.jpg
 
-Here is the output image after processing:
+🖼️ road5.jpg
 
-🖼️ Output Image: output_road2.jpg
+🌀 Output Examples
 
+Below are the processed output images with detected potholes highlighted:
 
+🖼️ output_road1.jpg
+
+🖼️ output_road2.jpg
+
+🖼️ output_road3.png
+
+🖼️ output_road4.jpg
+
+🖼️ output_road5.jpg
 
 ✔️ Highlights:
 
 Green rectangles indicate detected potholes
 
-Image includes labels for detected count and accuracy
+Each image is annotated with pothole count and accuracy
 
 
 
