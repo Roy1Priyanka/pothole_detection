@@ -10,29 +10,29 @@ To identify potholes in static images using OpenCV, evaluate detection accuracy,
 
 Below are all five input images used for pothole detection:
 
-🖼️ https://github.com/Roy1Priyanka/pothole_detection/blob/main/road1.jpg
+![road1](https://github.com/Roy1Priyanka/pothole_detection/blob/main/road1.jpg)
 
-🖼️ https://github.com/Roy1Priyanka/pothole_detection/blob/main/road2.jpg
+![road2](https://github.com/Roy1Priyanka/pothole_detection/blob/main/road2.jpg)
 
-🖼️ https://github.com/Roy1Priyanka/pothole_detection/blob/main/road3.png
+![road3](https://github.com/Roy1Priyanka/pothole_detection/blob/main/road3.png)
 
-🖼️ https://github.com/Roy1Priyanka/pothole_detection/blob/main/road4.jpg
+![road4](https://github.com/Roy1Priyanka/pothole_detection/blob/main/road4.jpg)
 
-🖼️ https://github.com/Roy1Priyanka/pothole_detection/blob/main/road5.jpg
+![road5](https://github.com/Roy1Priyanka/pothole_detection/blob/main/road5.jpg)
 
 🌀 Output Examples
 
 Below are the processed output images with detected potholes highlighted:
 
-🖼️ output_road1.jpg
+![output_road1](https://github.com/Roy1Priyanka/pothole_detection/blob/main/output_road1.jpg)
 
-🖼️ output_road2.jpg
+![output_road2](https://github.com/Roy1Priyanka/pothole_detection/blob/main/output_road2.jpg)
 
-🖼️ output_road3.png
+![output_road3](https://github.com/Roy1Priyanka/pothole_detection/blob/main/output_road3.png)
 
-🖼️ output_road4.jpg
+![output_road4](https://github.com/Roy1Priyanka/pothole_detection/blob/main/output_road4.jpg)
 
-🖼️ output_road5.jpg
+![output_road5](https://github.com/Roy1Priyanka/pothole_detection/blob/main/output_road5.jpg)
 
 ✔️ Highlights:
 
